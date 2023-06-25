@@ -71,7 +71,8 @@ void main(){
    //"Turkey" : {"city":"Ankara" , "currency" : "turkish lira" , "language" : "turkish"},
    //};
     
-   //print(world["Pakistan"]);
+   //print(world["Pakistan"]["city"]);
+   //print(world["Pakistan"]["currency"]);
 
 
    //Q.7:
